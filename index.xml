@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hotbuild</title>
-    <link>https://hotbuild.ffactory.org/</link>
+    <link>https://hotbuild.rustpub.com/</link>
     <description>Recent content on Hotbuild</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Jul 2021 22:57:01 +0800</lastBuildDate><atom:link href="https://hotbuild.ffactory.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 22:57:01 +0800</lastBuildDate><atom:link href="https://hotbuild.rustpub.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. the “Too many open files” error of MacOSX</title>
-      <link>https://hotbuild.ffactory.org/faqs/faq-1/</link>
+      <link>https://hotbuild.rustpub.com/faqs/faq-1/</link>
       <pubDate>Wed, 21 Jul 2021 22:57:01 +0800</pubDate>
       
-      <guid>https://hotbuild.ffactory.org/faqs/faq-1/</guid>
+      <guid>https://hotbuild.rustpub.com/faqs/faq-1/</guid>
       <description>the &amp;ldquo;Too many open files&amp;rdquo; error of MacOSX  # maxfiles is 256 too small. wander$ launchctl limit cpu unlimited unlimited filesize unlimited unlimited data unlimited unlimited stack 8388608 67104768 core 0 unlimited rss unlimited unlimited memlock unlimited unlimited maxproc 2784 4176 maxfiles 256 10240 # change maxfiles to 4096. wander$ sudo launchctl limit maxfiles 4096 unlimited wander$ launchctl limit cpu unlimited unlimited filesize unlimited unlimited data unlimited unlimited stack 8388608 67104768 core 0 unlimited rss unlimited unlimited memlock unlimited unlimited maxproc 2784 4176 maxfiles 4096 10240 remind:</description>
     </item>
     
     <item>
       <title>Docs</title>
-      <link>https://hotbuild.ffactory.org/docs/</link>
+      <link>https://hotbuild.rustpub.com/docs/</link>
       <pubDate>Wed, 21 Jul 2021 22:49:37 +0800</pubDate>
       
-      <guid>https://hotbuild.ffactory.org/docs/</guid>
+      <guid>https://hotbuild.rustpub.com/docs/</guid>
       <description>Install go get -u github.com/wandercn/hotbuild@latest Initialize wander$ cd $your_project_dir/ wander$ hotbuild initconf 2021/07/28 11:10:03 create config file: .hotbuild.toml Run wander$ cd $your_project_dir/ wander$ hotbuild run _ _ ___ _____ ____ _ _ ___ _ ____ | | | |/ _ \_ _| | __ )| | | |_ _| | | _ \ | |_| | | | || | | _ \| | | || || | | | | | | _ | |_| || | | |_) | |_| || || |___| |_| | |_| |_|\___/ |_| |____/ \___/|___|_____|____/ v1.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://hotbuild.ffactory.org/about/</link>
+      <link>https://hotbuild.rustpub.com/about/</link>
       <pubDate>Wed, 21 Jul 2021 22:42:07 +0800</pubDate>
       
-      <guid>https://hotbuild.ffactory.org/about/</guid>
+      <guid>https://hotbuild.rustpub.com/about/</guid>
       <description>Hotbuild is a cross platform hot compilation tool for golang.It is written in golang. It is written in golang, supporting Linux, Mac OSX, windows, arm and other platforms, as long as the platforms supported by golang are supported.
 By monitoring the modification of the project directory file, the recompilation and running are automatically triggered. Running directory and monitoring change directory can be different. Monitor the file modification in all recursive subdirectories under the project path.</description>
     </item>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hotbuild</title>
-    <link>https://hotbuild.ffactory.org/categories/</link>
+    <link>https://hotbuild.rustpub.com/categories/</link>
     <description>Recent content in Categories on Hotbuild</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://hotbuild.ffactory.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://hotbuild.rustpub.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
