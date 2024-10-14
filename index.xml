@@ -31,7 +31,7 @@
       <pubDate>Wed, 21 Jul 2021 22:42:07 +0800</pubDate>
       
       <guid>https://hotbuild.rustpub.com/about/</guid>
-      <description>Hotbuild is a cross platform hot compilation tool for golang.It is written in golang. It is written in golang, supporting Linux, Mac OSX, windows, arm and other platforms, as long as the platforms supported by golang are supported.
+      <description>Hotbuild is a cross platform hot compilation tool for golang. It is written in golang, supporting Linux, Mac OSX, windows, arm and other platforms, as long as the platforms supported by golang are supported.
 By monitoring the modification of the project directory file, the recompilation and running are automatically triggered. Running directory and monitoring change directory can be different. Monitor the file modification in all recursive subdirectories under the project path.</description>
     </item>
     
